@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9f53297ad5373d19",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa76a744c9ec6cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d133b1c8903535f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "980d8ca371fa1f33",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d0246c748e3c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1574dcc0b2b9266a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29bc6faf7999a80e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "well",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fd89979962bcdb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b35d786c2c4fd1f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b472cb5905e99fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbb8f590d7c6cb62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "541dbf3071d72199",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab14eadc01b87869",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ed5b3796b6503a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d133b1c8903535f",
+  "lastOpenFiles": [
+    "20230901151147 the book of delights.md",
+    "20230901151830 le deuxieme sexe.md",
+    "20230901192712 how to invent everything.md",
+    "20230901192646 Shakespeare was a woman.md",
+    "20230901192529 the courage to be disliked.md",
+    "20230901192325 the well educated mind.md",
+    "20230901192111 the soul of a new machine.md",
+    "20230901192012 the mountain in the sea.md",
+    "20230901191319 how to be a person.md",
+    "20230901151815 the mother of all questions.md",
+    "20230901151800 i remember nothing.md",
+    "20230901151732 how reading changed my life.md",
+    "20230901151708 the soul of a new machine.md",
+    "20230901151636 the perks of being a wallflower.md",
+    "20230901151620 stuck with you.md",
+    "20230901151609 below zero.md",
+    "20230901151544 love theoretically.md",
+    "20230901151502 lessons in chemistry.md",
+    "20230901151436 how to keep house while drowning.md",
+    "20230901151323 inciting joy.md",
+    "20230901151533 romantic comedy.md",
+    "20230901192553 the courage to be happy.md",
+    "20230901192058 users.md",
+    "20230901151701 users.md",
+    "20230901151723 the wonder paradox.md",
+    "20230901151746 the well educated mind.md"
+  ]
+}
