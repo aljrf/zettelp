@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "588959e5d8d16177",
+    "type": "split",
+    "children": [
+      {
+        "id": "af773b2bdbb83afe",
+        "type": "leaf",
+        "dimension": 81.06060606060606,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Jirae.md",
+            "mode": "source"
+          }
+        },
+        "group": "6d7e068e8b341932"
+      },
+      {
+        "id": "cec322b5dbcd28df",
+        "type": "split",
+        "dimension": 18.939393939393938,
+        "children": [
+          {
+            "id": "bc45b4a209084bc5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Jirae.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6786732518871377
+                }
+              }
+            },
+            "group": "6d7e068e8b341932"
+          },
+          {
+            "id": "739fd8f31a6aba9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jirae.md"
+              }
+            },
+            "group": "6d7e068e8b341932"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "009428994895670b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b39d5eef1b6e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcaea675d906819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1670f3ce0fa25d60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "jirae",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80af12104f9e0bd9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 185.00078010559082
+  },
+  "right": {
+    "id": "3fdde967071520ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8968453b01cd22f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61e9aa463fed62a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jirae.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d9e1b08089518c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jirae.md"
+              }
+            }
+          },
+          {
+            "id": "15527fe5e32f2d0a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6fd4b3c894839727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b6085bca9fc405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.71572875976562
+  },
+  "lastOpenFiles": [
+    "Jirae.md",
+    "Slim Springs.md",
+    "20201009 Slim Bom.md",
+    "C5 regular.md",
+    "B5 Slim.md",
+    "BOM slim.md",
+    "Logos issue.md",
+    "Logo fail fail.md",
+    "lanny_notes.md",
+    "ESD diodes for Regular.md"
+  ]
+}

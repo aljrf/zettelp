@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "588959e5d8d16177",
+    "type": "split",
+    "children": [
+      {
+        "id": "15d150fb2cca2baa",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Thermal bug slim.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "009428994895670b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b39d5eef1b6e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcaea675d906819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1670f3ce0fa25d60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "thermal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "80af12104f9e0bd9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "3fdde967071520ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8968453b01cd22f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61e9aa463fed62a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thermal bug slim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d9e1b08089518c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thermal bug slim.md"
+              }
+            }
+          },
+          {
+            "id": "6c4c5f9cabb5d015",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6fd4b3c894839727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b6085bca9fc405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d9c479ad6f4510ce",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.8999938964844
+  },
+  "lastOpenFiles": [
+    "Thermal bug slim.md",
+    "LED/LOGO output levels.md",
+    "daily_notes/W17_Monday_2021_04_19.md",
+    "daily_notes/W17_Tuesday_2021_04_20.md",
+    "lowtemp discrete BCM clocking.md",
+    "Slim temperature problem.md",
+    "Board dictionary.md",
+    "parts krieg.md",
+    "New level after after lowtemp discrete BCM clocking.md",
+    "Untitled.md"
+  ]
+}

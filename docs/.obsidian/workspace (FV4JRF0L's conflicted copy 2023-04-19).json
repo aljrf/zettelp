@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "588959e5d8d16177",
+    "type": "split",
+    "children": [
+      {
+        "id": "af8a7f461b2a1004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85cfc8693dd138a0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cal/W16_Monday_2023_04_17.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "944f33d2d817d1fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.3"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "009428994895670b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b39d5eef1b6e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcaea675d906819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "80af12104f9e0bd9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1670f3ce0fa25d60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ficohours",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "a657dbd6d83fe0fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cal/W16_Monday_2023_04_17.md"
+              }
+            }
+          },
+          {
+            "id": "68c9bd3d85f662c3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b664256323c70c86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.51103591918945
+  },
+  "right": {
+    "id": "3fdde967071520ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8968453b01cd22f",
+        "type": "tabs",
+        "dimension": 31.44016227180527,
+        "children": [
+          {
+            "id": "55b09c6f787adcff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a09e4e5cfb660037",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d0e0b89b50b74ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cal/W16_Monday_2023_04_17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d61e9aa463fed62a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cal/W16_Monday_2023_04_17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fd4b3c894839727",
+        "type": "tabs",
+        "dimension": 68.55983772819472,
+        "children": [
+          {
+            "id": "49b6085bca9fc405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e92bb87b14b9c3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cal/W16_Monday_2023_04_17.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.0118103027344
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "vantage-obsidian:Vantage - Advanced search builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
+    }
+  },
+  "active": "85cfc8693dd138a0",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/rglr/notes/RGLR shortage.md",
+    "prj/slim/out/Board dictionary.md",
+    "prj/rglr/notes/RGLR shortage (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/rglr/notes/TCAN RGLR 2% -40 resets JIRA ADAEX65213.md",
+    "prj/slim/out/Board dictionary (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/rglr/notes/TCAN RGLR 2% -40 resets JIRA ADAEX65213 (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/slim/notes/Powerup latch Slim ADAEX 4768 4770.md",
+    "meta/shortcuts multicommander.md",
+    "prj/slim/notes/Powerup latch Slim ADAEX 4768 4770 (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "cal/W50_Monday_2022_12_12.md",
+    "meta/shortcuts multicommander (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/C2/notes/C2 crystal_integrated_discrete clocking comparative BOM.md",
+    "cal/W48_Monday_2022_11_28.md",
+    "cal/W50_Monday_2022_12_12 (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/C2/notes/C2 crystal_integrated_discrete clocking comparative BOM (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/slim/moc/Links.md",
+    "cal/W48_Monday_2022_11_28 (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/slim/moc/Links (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/slim/out/C1_PV JIRAE.md",
+    "prj/slim/out/C1_PV JIRAE (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/rglr/notes/powerup procedure (regular).md",
+    "meta/change font size.md",
+    "prj/rglr/out/Crystal validation.md",
+    "prj/rglr/notes/powerup procedure (regular) (FV4JRF0L's conflicted copy 2023-04-19).md",
+    "prj/attachments",
+    "prj/slim/attachments/A13147800   A13600800   A09641600 nonauto/A13147800   A13600800   A09641600 nonauto_pic_20230414122139175.png",
+    "prj/slim/attachments/A13147800   A13600800   A09641600 nonauto/A13147800   A13600800   A09641600 nonauto_pic_20230414122015194.png",
+    "prj/slim/attachments/A13147800   A13600800   A09641600 nonauto/A13147800   A13600800   A09641600 nonauto_pic_20230414121506403.png",
+    "prj/slim/attachments/A13147800   A13600800   A09641600 nonauto/Daniel Sanchez A13147800   A13600800   A09641600 nonauto_pic_20230414121245465.png",
+    "prj/slim/attachments/A13147800   A13600800   A09641600 nonauto/A13147800   A13600800   A09641600 nonauto_pic_20230414121120002.png",
+    "prj/slim/attachments/A13147800   A13600800   A09641600 nonauto",
+    "prj/slim/notes/attachments/C3 clocking/~$BCM_clock_C3.pptx",
+    "attachments/Jira 665943 Re differences from C1.9 to C.3.1/Jira 665943 Re differences from C1.9 to C.3.1_pic_20230412165402070.png",
+    "attachments/Jira 665943 Re differences from C1.9 to C.3.1",
+    "attachments/Khicas Xcas/Khicas Xcas_pic_20230411162440126.png",
+    "attachments/Khicas Xcas/Khicas Xcas_pic_20230411162413030.png",
+    "attachments/Khicas Xcas",
+    "attachments/Flash corruption (Micron  ISSI)/~$ash corruption_ISSI.docx",
+    "attachments/Flash corruption (Micron  ISSI)/Flash corruption_ISSI.docx",
+    "prj/slim/notes/attachments/Teamcenter/Teamcenter_pic_20230330143110631.png",
+    "cal/attachments/W13_Monday_2023_03_27/W13_Monday_2023_03_27_pic_20230330142903802.png",
+    "cal/attachments/W13_Monday_2023_03_27",
+    "prj/slim/notes/attachments/Teamcenter/~$Teamcenter_flow_FICOSA_eCAD_Procedures.pptx",
+    "prj/slim/attachments/D1 BOM generation error (TRTBTRTS)",
+    "prj/slim/notes/Z2 canvas.canvas",
+    "ref/TeamCenter flow.canvas",
+    "ref/Milestone flow.canvas",
+    "prj/slim/notes/PMIC issue.canvas"
+  ]
+}

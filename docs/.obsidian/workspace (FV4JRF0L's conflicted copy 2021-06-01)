@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "588959e5d8d16177",
+    "type": "split",
+    "children": [
+      {
+        "id": "174a8266f6d73c04",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MID block diagram.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "ac694401b0fa8490",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "external watchdog.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "3698ad09e468e317",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "socalled system BOM.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "009428994895670b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b39d5eef1b6e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcaea675d906819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1670f3ce0fa25d60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#software",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "80af12104f9e0bd9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "3fdde967071520ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8968453b01cd22f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61e9aa463fed62a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "external watchdog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e4037fe06aa875a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e92bb87b14b9c3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "external watchdog.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6fd4b3c894839727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b6085bca9fc405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d9c479ad6f4510ce",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235
+  },
+  "active": "ac694401b0fa8490",
+  "lastOpenFiles": [
+    "external watchdog.md",
+    "socalled system BOM.md",
+    "SLIM reworks and levels.md",
+    "Mosfet high sides for cameras.md",
+    "CDDS access.md",
+    "microcap.md",
+    "ECU lost levels.md",
+    "MID Schematic rules.md",
+    "slides.md",
+    "Cdds.md"
+  ]
+}

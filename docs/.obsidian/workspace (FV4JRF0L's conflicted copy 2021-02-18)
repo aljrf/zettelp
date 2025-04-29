@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "588959e5d8d16177",
+    "type": "split",
+    "children": [
+      {
+        "id": "af773b2bdbb83afe",
+        "type": "leaf",
+        "dimension": 64.39393939393939,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-02-17.md",
+            "mode": "source"
+          }
+        },
+        "group": "6d7e068e8b341932"
+      },
+      {
+        "id": "cec322b5dbcd28df",
+        "type": "split",
+        "dimension": 35.60606060606061,
+        "children": [
+          {
+            "id": "bc45b4a209084bc5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2021-02-17.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#todo",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711808
+                      }
+                    },
+                    {
+                      "query": "tag:#done",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65280
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.11952457264957,
+                  "lineSizeMultiplier": 1.45456730769231,
+                  "collapse-forces": true,
+                  "centerStrength": 0.524305555555556,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6786732518871375,
+                  "close": false
+                }
+              }
+            },
+            "group": "6d7e068e8b341932"
+          },
+          {
+            "id": "739fd8f31a6aba9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-02-17.md"
+              }
+            },
+            "group": "6d7e068e8b341932"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "009428994895670b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b39d5eef1b6e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcaea675d906819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1670f3ce0fa25d60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80af12104f9e0bd9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 185.00078010559082
+  },
+  "right": {
+    "id": "3fdde967071520ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8968453b01cd22f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61e9aa463fed62a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-02-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d9e1b08089518c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-02-17.md"
+              }
+            }
+          },
+          {
+            "id": "6c4c5f9cabb5d015",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6fd4b3c894839727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b6085bca9fc405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.71572875976562
+  },
+  "lastOpenFiles": [
+    "2021-02-17.md",
+    "2021-02-03.md",
+    "lanny_todo.md",
+    "8G2040037B spring.md",
+    "oldtodo.md",
+    "Untitled 2.md",
+    "2021-02-04.md",
+    "springs.md",
+    "2021-01-27.md",
+    "Jirae.md"
+  ]
+}

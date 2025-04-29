@@ -1,0 +1,12 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "clean-embeds",
+    "img-grid",
+    "latex"
+  ],
+  "accentColor": ""
+}

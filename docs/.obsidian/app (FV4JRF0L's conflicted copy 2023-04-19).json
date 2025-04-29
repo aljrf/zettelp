@@ -1,0 +1,20 @@
+{
+  "attachmentFolderPath": "./attachments/W16_Monday_2023_04_17",
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTime",
+  "readableLineLength": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
+}

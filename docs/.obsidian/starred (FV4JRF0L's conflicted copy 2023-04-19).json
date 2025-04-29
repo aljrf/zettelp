@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Mail tracking",
+      "path": "prj/other/Mail tracking.md"
+    },
+    {
+      "type": "file",
+      "title": "Links",
+      "path": "prj/slim/moc/Links.md"
+    },
+    {
+      "type": "file",
+      "title": "SPI writing to TCAN",
+      "path": "prj/slim/notes/SPI writing to TCAN.md"
+    },
+    {
+      "type": "file",
+      "title": "load switch unitary test",
+      "path": "prj/C2/notes/Load switch unitary test.md"
+    },
+    {
+      "type": "file",
+      "title": "general what goes",
+      "path": "MOC/general what goes here.md"
+    },
+    {
+      "type": "file",
+      "title": "Powerup latch Slim ADAEX 4768 4770",
+      "path": "Powerup latch Slim ADAEX 4768 4770.md"
+    },
+    {
+      "type": "file",
+      "title": "regular -40 resets JIRA ADAEX65213",
+      "path": "TCAN RGLR 2% -40 resets JIRA ADAEX65213.md"
+    },
+    {
+      "type": "file",
+      "title": "XP shortage",
+      "path": "RGLR shortage.md"
+    },
+    {
+      "type": "file",
+      "title": "socalled system BOM",
+      "path": "prj/slim/out/socalled system BOM.md"
+    },
+    {
+      "type": "file",
+      "title": "Test matrix",
+      "path": "Test matrix.md"
+    },
+    {
+      "type": "file",
+      "title": "PV Camera short test issue ADAEX-65726",
+      "path": "PV Camera short test issue ADAEX-65726.md"
+    },
+    {
+      "type": "file",
+      "title": "Rounds in the chamber",
+      "path": "Rounds in the chamber.md"
+    },
+    {
+      "type": "file",
+      "title": "Board dictionary",
+      "path": "Board dictionary.md"
+    },
+    {
+      "type": "file",
+      "title": "metasystem",
+      "path": "meta/metasystem.md"
+    },
+    {
+      "type": "file",
+      "title": "Teamcenter_flow_FICOSA_eCAD_Procedures",
+      "path": "prj/slim/notes/attachments/Teamcenter/Teamcenter_flow_FICOSA_eCAD_Procedures.pptx"
+    },
+    {
+      "type": "file",
+      "title": "TDA clock stopping",
+      "path": "prj/slim/notes/TDA clock stopping.md"
+    }
+  ]
+}

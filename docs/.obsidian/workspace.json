@@ -1,0 +1,382 @@
+{
+  "main": {
+    "id": "4e58f5ff1c37dfaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "738d9a01353fd151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2afd6d3aac0b6e41",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "215b570cf69fa73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn/analog notes workflow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "analog notes workflow"
+            }
+          },
+          {
+            "id": "0e38f17ba38d5467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/site/notes/spectrum/calendrical.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "calendrical"
+            }
+          },
+          {
+            "id": "fcfbf25fe7728e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teach/mat/minutes and degrees.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "minutes and degrees"
+            }
+          },
+          {
+            "id": "0b81d2110c94dae1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d3efb42c0318726b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cal/W45_Monday_2023_11_06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "W45_Monday_2023_11_06"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7893815732d3958c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1418f0f7e618506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f78584a20a14376",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f720b60db5e8c26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "noteta",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eabc2ba40382ccda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "1dae1f27bd1ece16",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "58e03c9e3d0b48ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2ae0807e6c15818a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "903a426f18ddc4de",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fde25ab4316e4f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b300c5762f8d61d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9e785f4b4443ccf4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b825148bc9ae518c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "659e2d3f5ea9003f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cecf6afd2c79d468",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "08f266190f516007",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "23dafec750de6dfa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f343e5c19fe7b7c4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1b876fdd29a5633d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "11c40a61e0237f94",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "9a47163cfe608ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee7e6f220ae6546b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/site/notes/spectrum/calendrical.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of calendrical"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "0e38f17ba38d5467",
+  "lastOpenFiles": [
+    "Computer related projects.md",
+    "docs/Obsidian guy with books.md",
+    "docs/problematic words and idioms.md",
+    "docs",
+    "src/site/notes/src/site/notes/meta/Better obsidian.md",
+    "src/site/notes/src/site/notes/spectrum/calendrical.md",
+    "src/site/notes/src/site/notes/meta",
+    "src/site/notes/src/site/notes/spectrum",
+    "src/site/notes/src/site/notes",
+    "src/site/notes/src/site",
+    "src/site/notes/src",
+    "1.gitignore",
+    "moc/HDD disks.md",
+    "learn/Ronald Fisher.md",
+    "learn/note taking methods.md",
+    "learn/analog notes workflow.md",
+    "meta/Zettelkasten workflow.md",
+    "project/Project list.md",
+    "project/keeb/Keyboard endgame (FV4JRF0L's conflicted copy 2021-07-27).md",
+    "src/site/notes/spectrum/calendrical.md",
+    "book/attachments/20230901151815 the mother of all questions/202309_highlights.md",
+    "meta/Types of Notes.md",
+    "meta/PARA method.md",
+    "meta/deleteme.md",
+    "teach/mat/minutes and degrees.md",
+    "problematic words and idioms.md",
+    "Obsidian guy with books.md",
+    "cal/W45_Monday_2023_11_06.md",
+    "templates/Daily_note.md",
+    "cal/2021-10-09 1.md",
+    "teach/conjuncions.md",
+    "teach/2023 summer.md",
+    "teach/Placa cultural.md",
+    "src/site/notes/spectrum",
+    "src/site/notes/meta",
+    "src/site/notes",
+    "learn/assets/Spaced rep/image-20240319121128807.png",
+    "spectrum/assets/Tapr alphabet/image-20240229181038234.png",
+    "meta/assets/flashcardism/image-20240202164137404.png",
+    "meta/assets/flashcardism/image-20240202164104868.png"
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "workspaces": {
+    "base": {
+      "main": {
+        "id": "588959e5d8d16177",
+        "type": "split",
+        "children": [
+          {
+            "id": "af773b2bdbb83afe",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reporting SLIM.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "009428994895670b",
+        "type": "split",
+        "children": [
+          {
+            "id": "a3b39d5eef1b6e4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cfcaea675d906819",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1670f3ce0fa25d60",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "slim c1",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "80af12104f9e0bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 185.00078010559082
+      },
+      "right": {
+        "id": "3fdde967071520ba",
+        "type": "split",
+        "children": [
+          {
+            "id": "c8968453b01cd22f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d61e9aa463fed62a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "reporting SLIM.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1d9e1b08089518c9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "reporting SLIM.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "6fd4b3c894839727",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49b6085bca9fc405",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 237.71572875976562,
+        "collapsed": true
+      }
+    },
+    "localmap & outline": {
+      "main": {
+        "id": "588959e5d8d16177",
+        "type": "split",
+        "children": [
+          {
+            "id": "af773b2bdbb83afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Milestones meeting with Rafa Pau minutes.md",
+                "mode": "preview"
+              }
+            },
+            "group": "6d7e068e8b341932"
+          },
+          {
+            "id": "cec322b5dbcd28df",
+            "type": "split",
+            "children": [
+              {
+                "id": "bc45b4a209084bc5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Hardware Milestones meeting with Rafa Pau minutes.md",
+                    "options": {
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.4840809777092745
+                    }
+                  }
+                },
+                "group": "6d7e068e8b341932"
+              },
+              {
+                "id": "739fd8f31a6aba9d",
+                "type": "leaf",
+                "active": true,
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Hardware Milestones meeting with Rafa Pau minutes.md"
+                  }
+                },
+                "group": "6d7e068e8b341932"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "009428994895670b",
+        "type": "split",
+        "children": [
+          {
+            "id": "a3b39d5eef1b6e4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cfcaea675d906819",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1670f3ce0fa25d60",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "80af12104f9e0bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 185.00078010559082
+      },
+      "right": {
+        "id": "3fdde967071520ba",
+        "type": "split",
+        "children": [
+          {
+            "id": "c8968453b01cd22f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d61e9aa463fed62a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Hardware Milestones meeting with Rafa Pau minutes.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1d9e1b08089518c9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Hardware Milestones meeting with Rafa Pau minutes.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "6fd4b3c894839727",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49b6085bca9fc405",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 237.71572875976562,
+        "collapsed": true
+      }
+    },
+    "september 21st": {
+      "main": {
+        "id": "588959e5d8d16177",
+        "type": "split",
+        "children": [
+          {
+            "id": "2da27d013a102ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/W39_Thursday_2021_09_30.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "009428994895670b",
+        "type": "split",
+        "children": [
+          {
+            "id": "a3b39d5eef1b6e4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cfcaea675d906819",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1670f3ce0fa25d60",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "80af12104f9e0bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 256
+      },
+      "right": {
+        "id": "3fdde967071520ba",
+        "type": "split",
+        "children": [
+          {
+            "id": "c8968453b01cd22f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0e4037fe06aa875a",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a09e4e5cfb660037",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "6fd4b3c894839727",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49b6085bca9fc405",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "2e92bb87b14b9c3b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "daily_notes/W39_Thursday_2021_09_30.md"
+                  }
+                }
+              },
+              {
+                "id": "d61e9aa463fed62a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "daily_notes/W39_Thursday_2021_09_30.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d9c479ad6f4510ce",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293.3999938964844
+      },
+      "active": "2da27d013a102ab9"
+    }
+  },
+  "active": "september 21st"
+}

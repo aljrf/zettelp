@@ -1,0 +1,13 @@
+{
+  "includeFirstLineAsNoteHeading": true,
+  "excludeFirstLineInNote": false,
+  "openNewNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 1,
+  "customFolder": "",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": "---\ndate: {{date:YYYYMMDD}}\n---\n\n{{link}}\n\n{{new_note_content}}\n",
+  "normalizeHeaderLevels": false
+}

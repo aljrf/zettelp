@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "C2 RE Variable level table",
+      "path": "prj/C2/notes/C2 RE Variable level table.md"
+    },
+    {
+      "type": "file",
+      "title": "C1.91 to C3 schematic changes",
+      "path": "prj/C2/notes/C1.91 to C3 schematic changes.md"
+    },
+    {
+      "type": "file",
+      "title": "C2 crystal_integrated_discrete clocking comparative BOM",
+      "path": "prj/C2/notes/C2 crystal_integrated_discrete clocking comparative BOM.md"
+    },
+    {
+      "type": "file",
+      "title": "Links",
+      "path": "prj/slim/moc/Links.md"
+    },
+    {
+      "type": "search",
+      "title": "(tag:#prj/C2) ",
+      "query": "(tag:#prj/C2) "
+    },
+    {
+      "type": "file",
+      "title": "C1 Load SW and CAN shortage",
+      "path": "prj/slim/notes/C1.91 slim Load SW and CAN shortage.md"
+    },
+    {
+      "type": "file",
+      "title": "BCM at low confirmation measurements (instrumentalization)",
+      "path": "prj/slim/notes/BCM at low confirmation measurements.md"
+    },
+    {
+      "type": "file",
+      "title": "SOA for BCM 1V regulator",
+      "path": "prj/C2/notes/C2 BCM 1V  regulator SOA.md"
+    },
+    {
+      "type": "file",
+      "title": "UVLO adjust",
+      "path": "prj/C2/notes/UVLO adjust.md"
+    },
+    {
+      "type": "file",
+      "title": "load switch unitary test",
+      "path": "prj/C2/notes/Load switch unitary test.md"
+    },
+    {
+      "type": "file",
+      "title": "Power sequence unitary test",
+      "path": "prj/C2/notes/C2 Power sequence unitary test.md"
+    },
+    {
+      "type": "file",
+      "title": "C1.8 to C1.91 rework list",
+      "path": "prj/slim/out/C1.8 to C1.91 rework list.md"
+    },
+    {
+      "type": "file",
+      "title": "Combined BOM",
+      "path": "prj/other/Combined BOM.md"
+    },
+    {
+      "type": "file",
+      "title": "general what goes",
+      "path": "MOC/general what goes here.md"
+    },
+    {
+      "type": "file",
+      "title": "Powerup latch Slim ADAEX 4768 4770",
+      "path": "Powerup latch Slim ADAEX 4768 4770.md"
+    },
+    {
+      "type": "file",
+      "title": "regular -40 resets JIRA ADAEX65213",
+      "path": "TCAN RGLR 2% -40 resets JIRA ADAEX65213.md"
+    },
+    {
+      "type": "search",
+      "title": " ((/- \\[ \\].*#slim.*/))",
+      "query": " ((/- \\[ \\].*#slim.*/))"
+    },
+    {
+      "type": "search",
+      "title": " ((/- \\[ \\].*#rglr*/))",
+      "query": " ((/- \\[ \\].*#rglr*/))"
+    },
+    {
+      "type": "file",
+      "title": "XP shortage",
+      "path": "RGLR shortage.md"
+    },
+    {
+      "type": "file",
+      "title": "socalled system BOM",
+      "path": "prj/slim/out/socalled system BOM.md"
+    },
+    {
+      "type": "file",
+      "title": "Test matrix",
+      "path": "Test matrix.md"
+    },
+    {
+      "type": "file",
+      "title": "PV Camera short test issue ADAEX-65726",
+      "path": "PV Camera short test issue ADAEX-65726.md"
+    },
+    {
+      "type": "file",
+      "title": "Rounds in the chamber",
+      "path": "Rounds in the chamber.md"
+    },
+    {
+      "type": "file",
+      "title": "Board dictionary",
+      "path": "Board dictionary.md"
+    },
+    {
+      "type": "file",
+      "title": "metasystem",
+      "path": "meta/metasystem.md"
+    },
+    {
+      "type": "search",
+      "title": "/kreig\\\\\\_.+\\\\\\_slim",
+      "query": "/kreig\\\\\\_.+\\\\\\_slim"
+    },
+    {
+      "type": "search",
+      "title": "/kreig\\\\\\_.+\\\\\\_rglr",
+      "query": "/kreig\\\\\\_.+\\\\\\_rglr"
+    },
+    {
+      "type": "file",
+      "title": "Moll",
+      "path": "prj/other/Moll.md"
+    },
+    {
+      "type": "file",
+      "title": "Threshold BCM clock inverter",
+      "path": "prj/slim/notes/Bcm at low oscillator threshold.md"
+    },
+    {
+      "type": "file",
+      "title": "Interface review HW29 HW31",
+      "path": "prj/slim/out/Interface review HW29 HW31.md"
+    },
+    {
+      "type": "file",
+      "title": "C2 2nd layout",
+      "path": "prj/C2/notes/C2 2nd layout.md"
+    },
+    {
+      "type": "file",
+      "title": "SPI writing to TCAN",
+      "path": "prj/slim/notes/SPI writing to TCAN.md"
+    }
+  ]
+}

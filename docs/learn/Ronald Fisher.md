@@ -1,5 +1,7 @@
 # Ronald Fisher
 
+#publish
+
 The greatest biologist after Darwin
 
 * Came up with Experimental design
